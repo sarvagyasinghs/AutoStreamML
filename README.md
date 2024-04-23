@@ -5,6 +5,11 @@ AutoStreamML is an automated machine learning (AutoML) pipeline built using Stre
 
 With AutoStreamML, you can easily analyze your dataset, generate exploratory data analysis (EDA) reports, compare multiple machine learning models, fine-tune hyperparameters, and deploy the best-performing model with just a few clicks. Whether you're a beginner or an experienced data scientist, AutoStreamML simplifies the entire machine learning workflow and empowers you to build powerful models with ease.
 
+<img width="1094" alt="image" src="https://github.com/sarvagyasinghs/AutoStreamML/assets/89350505/877eb518-cf2d-4e58-a50a-442650103a4f">
+<img width="1085" alt="image" src="https://github.com/sarvagyasinghs/AutoStreamML/assets/89350505/affc97f2-1925-4632-8544-7426e9a1dee9">
+<img width="857" alt="image" src="https://github.com/sarvagyasinghs/AutoStreamML/assets/89350505/cb71c2d6-dedf-4e66-996c-544d20a77a1c">
+
+
 ## Features
 
 - **Data Upload**: Upload your dataset effortlessly.
