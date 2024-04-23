@@ -1,7 +1,45 @@
 # AutoStreamML
-This application allows you to build an automated ML pipeline using Streamlit, Pandas Profiling and PyCarat. it's pure magic at your fingertips!
+## Overview
+
+AutoStreamML is an automated machine learning (AutoML) pipeline built using Streamlit, Pandas Profiling, and PyCaret. It provides a user-friendly interface for data exploration, preprocessing, model training, and evaluation, all within a single application.
+
+With AutoStreamML, you can easily analyze your dataset, generate exploratory data analysis (EDA) reports, compare multiple machine learning models, fine-tune hyperparameters, and deploy the best-performing model with just a few clicks. Whether you're a beginner or an experienced data scientist, AutoStreamML simplifies the entire machine learning workflow and empowers you to build powerful models with ease.
+
+## Features
+
+- **Data Upload**: Upload your dataset effortlessly.
+- **Exploratory Data Analysis (EDA)**: Automatically generate comprehensive EDA reports using Pandas Profiling.
+- **Model Training**: Train and compare various machine learning models with PyCaret's simplified API.
+- **Hyperparameter Tuning**: Fine-tune model hyperparameters to optimize performance.
+- **Model Evaluation**: Evaluate model performance using various metrics and visualizations.
+
+## Installation
+
+To run AutoStreamML locally, follow these steps:
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/sarvagyasinghs/AutoStreamML.git
 <img width="1093" alt="image" src="https://github.com/sarvagyasinghs/AutoStreamML/assets/89350505/4df4f6b9-b53f-4668-a834-f9fe3c35ed82">
 <img width="856" alt="image" src="https://github.com/sarvagyasinghs/AutoStreamML/assets/89350505/617d690a-841a-4755-bb26-5589a4c31e12">
 
 The report can also be downloaded
 <img width="1058" alt="image" src="https://github.com/sarvagyasinghs/AutoStreamML/assets/89350505/ba765c9c-d298-465b-ba88-c74c7ec9617e">
+
+```
+2. Navigate to the project directory:
+   cd AutoStreamML
+
+3. Install the required dependencies:
+   pip install -r requirements.txt
+   
+5. Start the Streamlit application:
+   streamlit run autostreamML.py
+
+   ## Usage
+   1. Upload your dataset by selecting the "Upload" option from the navigation menu.
+   2. Explore the data using the EDA tab to gain insights and identify patterns.
+   3. Train and compare machine learning models using the ML tab.
+   4. Fine-tune hyperparameters and evaluate model performance.
+   5. Deploy the best-performing model using the "Download" option or integrate it into your projects.
